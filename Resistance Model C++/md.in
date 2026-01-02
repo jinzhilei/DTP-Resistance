@@ -1,0 +1,16 @@
+mdcrd="output/md"
+cellpar="par.dat"
+
+# Initial cell number
+N0=5000
+
+# Dynamical control Parameters
+dt=0.25
+T0=12
+T1=2400
+type=1
+ntpr=4
+ntpx=96
+
+# Random number seed
+seed=3346
