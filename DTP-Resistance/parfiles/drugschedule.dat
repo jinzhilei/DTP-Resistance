@@ -1,0 +1,7 @@
+# drug schedules files
+# format£ºID,name,count,drugon1,drugoff1,...
+0,Control,0,600,600
+1,MRD,1,24,240
+2,Regrowth,1,24,240
+3,Shortdrug,2,1200,1440,3840,6240
+4,Longdrug,2,1200,3600,6000,8400

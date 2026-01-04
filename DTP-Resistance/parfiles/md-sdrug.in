@@ -1,0 +1,18 @@
+mdcrd="output/md"
+cellpar="parfiles/par.dat"
+drugpar="parfiles/drugschedule.dat"
+
+# Initial cell number
+N0=4000
+
+# Dynamical control Parameters
+dt=0.25
+T0=12
+T1=6240
+type=1
+ntpr=4
+ntpx=96
+schedule=3
+
+# Random number seed
+seed=18126
