@@ -16,12 +16,13 @@ The program has been test in Window 10 and Linux (ubuntu 22.04.4)
 
 Usage:
 
-windows:
+Windows:
 1. Use IDE such VS code  or Dev C++ to generate the execute file BCTool.exe
 2. in the command windown, BCTool  parfiles/md-**.in  to generate the simulation data.
 md-**.in denote the files in parfiles with different schedules, such as md-control.in, md-sdrug.in
 
-windows:
+Linux:
 1. g++ -o BCTool BCTool.cpp to generate the execute file BCTool.exe
 2. ./BCTool  parfiles/md-***.in  to generate the simulation data.
+
 md-**.in denote the files in parfiles with different schedules,
